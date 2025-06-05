@@ -26,7 +26,7 @@ As principais tabelas são:
 - `Pedidos 2024`
 - `Pedidos por Tipo - Produtos` e `Geral`
 - `Vendas 2024`
-- `Dim_Calendário` (para análises temporais)
+- `Dim_Calendário`
 
 ---
 
@@ -54,16 +54,31 @@ As principais tabelas são:
 
 ---
 
-## ▶️ Como Visualizar
+## 🖼️ Prévia do Relatório
 
-1. Baixe o arquivo `Relatório Anual.pbix`.
-2. Abra no **Power BI Desktop**.
-3. Explore os filtros, gráficos e segmentações para obter insights customizados.
+### Visão Geral do Relatório Anual
+
+![Relatório Anual - Visão Geral](./Imagem-Relatório_Anual_1.png)
+
+### Tendência de Vendas
+
+![Comparativo de Vendas 2024 x 2025](./Imagem-Relatório_Anual_2.png)
+
+### Vendas de 2022
+
+![Resumo de Vendas 2022 - Parte 1](./Imagem-Vendas_2022_1.png)
+
+![Resumo de Vendas 2022 - Parte 2](./Imagem-Vendas_2022_2.png)
+
+![Resumo de Vendas 2022 - Parte 3](./Imagem-Vendas_2022_3.png)
+
 ---
 
-## 📎 Arquivos no Repositório
+## ▶️ Como Visualizar
 
-- `Relatório Anual.pbix` — Arquivo principal do Power BI
-- `Imagens/` — Capturas de tela do relatório para visualização rápida
+1. Baixe o arquivo `.pbix` desejado.
+2. Abra no **Power BI Desktop**.
+3. Explore os filtros, gráficos e segmentações para obter insights customizados.
 
+---
 
