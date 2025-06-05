@@ -56,21 +56,21 @@ As principais tabelas são:
 
 ## 🖼️ Prévia do Relatório
 
-### Visão Geral do Relatório Anual
+### Visão Geral
 
-![Relatório Anual - Visão Geral](./Imagem-Relatório_Anual_1.png)
+![Dashboard Geral](./Geral.png)
 
-### Tendência de Vendas
+### KPIs Resumo
 
-![Comparativo de Vendas 2024 x 2025](./Imagem-Relatório_Anual_2.png)
+![Indicadores-Chave](./kpis_resumo.png)
 
-### Vendas de 2022
+### Faturamento por Produto
 
-![Resumo de Vendas 2022 - Parte 1](./Imagem-Vendas_2022_1.png)
+![Faturamento por Produto](./faturamento_por_prod.png)
 
-![Resumo de Vendas 2022 - Parte 2](./Imagem-Vendas_2022_2.png)
+### Comparativo Vendas 2024 x 2025
 
-![Resumo de Vendas 2022 - Parte 3](./Imagem-Vendas_2022_3.png)
+![Comparativo de Vendas](./comparativo_vendas_2024_2025.png)
 
 ---
 
@@ -81,4 +81,16 @@ As principais tabelas são:
 3. Explore os filtros, gráficos e segmentações para obter insights customizados.
 
 ---
+
+## 👤 Sobre o Autor
+
+Este relatório foi desenvolvido como parte de um portfólio de projetos com o objetivo de demonstrar habilidades em:
+
+- Visualização de dados
+- Modelagem relacional
+- Análise de indicadores de desempenho comercial
+- Desenvolvimento de dashboards interativos no Power BI
+
+---
+
 
